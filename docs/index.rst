@@ -45,7 +45,7 @@ Chapter 2
 
 .. |LINK1| raw:: html
 
-    <a href="www.yahoo.com.tw">blab</a>
+    <a href="#chapter-2">blab</a>
 
 
 .. |IMG1| image:: static/無標題文件_1.png
