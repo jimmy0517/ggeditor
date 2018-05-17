@@ -64,6 +64,6 @@ Chapter 3
     <a href="#chapter-2">blab</a>
 
 
-.. |IMG1| image:: static/無標題文件_1.png
+.. |IMG1| image:: static/This_is_my_new_project_1.png
    :height: 177 px
    :width: 269 px
