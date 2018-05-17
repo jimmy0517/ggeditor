@@ -16,7 +16,7 @@ Chapter 1
 section 1
 =========
 
-  paragraph blab lafdlbkalkldkfl
+  paragraph \ |LINK1|\  lafdlbkalkldkfl
 
 .. _h301285013736c67506d6c7f416154:
 
@@ -41,6 +41,12 @@ Chapter 2
 
 
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="www.yahoo.com.tw">blab</a>
+
 
 .. |IMG1| image:: static/無標題文件_1.png
    :height: 177 px
