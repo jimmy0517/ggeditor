@@ -32,13 +32,7 @@ Chapter 2
 *********
 
 
-+------+------+
-|Header|Header|
-+======+======+
-|ss    |aa    |
-+------+------+
-|sss   |fff   |
-+------+------+
+|REPLACE1|
 
 .. _h6e7d312751b313d48361d416028265d:
 
@@ -46,18 +40,32 @@ Chapter 3
 *********
 
 
-+------+------+------+
-|Header|Header|Header|
-+======+======+======+
-|      |      |      |
-+------+------+------+
-|      |      |      |
-+------+------+------+
-|      |      |      |
-+------+------+------+
+|REPLACE2|
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <thead>
+    <tr><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Header</p></th><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Header</p></th></tr>
+    </thead><tbody>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>ss</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>aa</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>sss</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>fff</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <thead>
+    <tr><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Header</p></th><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Header</p></th><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Header</p></th></tr>
+    </thead><tbody>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td></tr>
+    </tbody></table>
 
 
 .. |LINK1| raw:: html
@@ -67,4 +75,4 @@ Chapter 3
 
 .. |IMG1| image:: static/This_is_my_new_project_1.png
    :height: 177 px
-   :width: 269 px
+   :width: 596 px
